@@ -1,0 +1,156 @@
+SCHEME: PM-KISAN
+
+Benefits:
+Eligible farmers receive ₹6,000 per year in three equal installments directly into their bank accounts.
+
+Eligibility:
+Small and marginal farmers who own cultivable land.
+
+Required Documents:
+- Aadhaar Card
+- Land ownership records
+- Bank account details
+
+Application Process:
+Apply through the PM-KISAN portal or visit the nearest Common Service Centre (CSC).
+
+Official Source:
+https://pmkisan.gov.in
+
+
+SCHEME: Ayushman Bharat
+
+Benefits:
+Provides health insurance coverage of up to ₹5 lakh per family per year for secondary and tertiary healthcare.
+
+Eligibility:
+Economically vulnerable families identified under government guidelines.
+
+Required Documents:
+- Aadhaar Card
+- Ration Card
+- Mobile Number
+
+Application Process:
+Visit an empanelled hospital or Ayushman Bharat help centre.
+
+Official Source:
+https://pmjay.gov.in
+
+
+SCHEME: PMAY (Pradhan Mantri Awas Yojana)
+
+Benefits:
+Provides financial assistance for constructing or purchasing a house.
+
+Eligibility:
+Families without a permanent (pucca) house and belonging to eligible income groups.
+
+Required Documents:
+- Aadhaar Card
+- Income Certificate
+- Residence Proof
+
+Application Process:
+Apply through local authorities or the official PMAY portal.
+
+Official Source:
+https://pmaymis.gov.in
+
+
+SCHEME: Ujjwala Yojana
+
+Benefits:
+Provides free LPG connections to eligible households.
+
+Eligibility:
+Women belonging to eligible low-income households.
+
+Required Documents:
+- Aadhaar Card
+- Ration Card
+- Bank Account Details
+
+Application Process:
+Apply through authorised LPG distributors.
+
+Official Source:
+https://pmuy.gov.in
+
+
+SCHEME: MGNREGA
+
+Benefits:
+Provides guaranteed wage employment for up to 100 days in a financial year.
+
+Eligibility:
+Adult members of rural households willing to do unskilled manual work.
+
+Required Documents:
+- Aadhaar Card
+- Job Card
+- Residence Proof
+
+Application Process:
+Register at the Gram Panchayat office.
+
+Official Source:
+https://nrega.nic.in
+
+
+SCHEME: Sukanya Samriddhi Yojana
+
+Benefits:
+Offers a high-interest savings scheme for the education and marriage expenses of girl children.
+
+Eligibility:
+Parents or guardians of a girl child below 10 years of age.
+
+Required Documents:
+- Birth Certificate of the child
+- Aadhaar Card of parent/guardian
+
+Application Process:
+Open an account at a post office or authorised bank.
+
+Official Source:
+https://nsiindia.gov.in
+
+
+SCHEME: PM Shram Yogi Maandhan
+
+Benefits:
+Provides a minimum assured monthly pension of ₹3,000 after the age of 60 years.
+
+Eligibility:
+Unorganised workers aged between 18 and 40 years meeting prescribed income criteria.
+
+Required Documents:
+- Aadhaar Card
+- Savings Bank Account Details
+- Mobile Number
+
+Application Process:
+Enroll through Common Service Centres (CSCs).
+
+Official Source:
+https://maandhan.in
+
+
+SCHEME: PM Jeevan Jyoti Bima Yojana (PMJJBY)
+
+Benefits:
+Provides life insurance coverage of ₹2 lakh.
+
+Eligibility:
+Individuals aged between 18 and 50 years having a savings bank account.
+
+Required Documents:
+- Aadhaar Card
+- Bank Account Details
+
+Application Process:
+Enroll through participating banks.
+
+Official Source:
+https://jansuraksha.gov.in
