@@ -1,3 +1,5 @@
+[Live Application](https://ai-welfare-assistant.streamlit.app/)
+
 # 🇮🇳 AI Welfare Scheme Assistant
 
 > A low-bandwidth, multilingual conversational assistant that helps rural users discover the government welfare schemes they're eligible for, understand the required documents, and get a personalised shortlist — built for WhatsApp.
