@@ -1,0 +1,14 @@
+streamlit
+pandas
+google-generativeai
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+python-dotenv
+langchain-groq
+flask
+twilio
