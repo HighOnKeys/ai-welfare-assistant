@@ -154,3 +154,14 @@ For a district or NGO with 10,000 beneficiary households, even a conservative 20
 - **LLM**: Groq (Llama 3.3 70B)
 - **RAG**: LangChain + FAISS + HuggingFace sentence-transformers
 - **Tunneling**: ngrok
+
+---
+
+# Author
+
+**Kumar Manas**
+B.Tech. Production and Industrial Engineering · IIT Roorkee
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumarmanas-iitroorkee/)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/HighOnKeys)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kumar_m@me.iitr.ac.in)
