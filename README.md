@@ -3,7 +3,7 @@
 > A low-bandwidth, multilingual conversational assistant that helps rural users discover the government welfare schemes they're eligible for, understand the required documents, and get a personalised shortlist — built for WhatsApp.
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Demo-FF4B4B.svg)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Demo-FF4B4B.svg)](https://ai-welfare-assistant.streamlit.app/)
 [![Twilio](https://img.shields.io/badge/Twilio-WhatsApp-25D366.svg)](https://www.twilio.com/whatsapp)
 [![LangChain](https://img.shields.io/badge/LangChain-RAG-1C3C3C.svg)](https://www.langchain.com/)
 
